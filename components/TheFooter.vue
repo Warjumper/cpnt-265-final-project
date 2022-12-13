@@ -12,7 +12,7 @@
             >Events</NuxtLink
           >
           <NuxtLink to="/contact" class="hover:text-red-600"
-            >Contact</NuxtLink
+            >Contacts</NuxtLink
           >
         </div>
       </div>

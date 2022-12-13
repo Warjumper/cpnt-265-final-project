@@ -1,7 +1,7 @@
 <template>
   <div>
     <nav
-      class="flex-wrap mx-auto px-12 bg-gradient-to-r from-pink-800 to-indigo-800 text-white"
+      class="sticky top-0 z-10 bg-gradient-to-r from-pink-800 to-indigo-800 text-white mx-auto px-12"
     >
       <div class="flex items-center justify-between pl-8">
         <div>
@@ -19,16 +19,16 @@
           <Icon name="quill:hamburger" size="30" />
         </div>
         <div class="hidden md:flex space-x-12 text-lg">
-          <li class="hover:text-red-600 list-none">
+          <li class="hover:text-cyan-400 list-none">
             <NuxtLink to="/">Home</NuxtLink>
           </li>
-          <li class="hover:text-red-600 list-none">
+          <li class="hover:text-cyan-400 list-none">
             <NuxtLink to="/about">About</NuxtLink>
           </li>
-          <li class="hover:text-red-600 list-none">
+          <li class="hover:text-cyan-400 list-none">
             <NuxtLink to="/events">Events</NuxtLink>
           </li>
-          <li class="hover:text-red-600 list-none">
+          <li class="hover:text-cyan-400 list-none">
             <NuxtLink to="/contact">Contacts</NuxtLink>
           </li>
         </div>
