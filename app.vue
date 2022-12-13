@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col min-h-screen bg-slate-400">
+  <div class="flex flex-col min-h-screen">
     <TheNav />
     <!-- pages -->
     <NuxtPage class="" />

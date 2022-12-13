@@ -38,7 +38,7 @@
         </a>
 
         <!-- link 3 -->
-        <a href="#">
+        <a href="https://instagram.com/unseenriches?igshid=YmMyMTA2M2Y=">
           <img
             src="/images/instagram.svg"
             alt="instagram"
@@ -47,7 +47,7 @@
         </a>
 
         <!-- link 4 -->
-        <a href="#">
+        <a href="https://www.tiktok.com/@unseenriches?_t=8VsnvPtD3gc&_r=1&fbclid=PAAaa8dnyMLfA-Hoy8Gt61gBhhr1uBDmj7u58nyznzxNyob_n-GfLTtfubrQo">
           <img
             src="/images/tiktok.svg"
             alt="tiktok"
@@ -57,7 +57,7 @@
       </div>
 
       <!-- copyright -->
-      <div class="text-center p-2">
+      <div class="text-center p-2 text-gray-400">
         Copyright &copy; | 2022 Unseen Riches &trade; | Jesse h
       </div>
     </div>
