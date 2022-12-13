@@ -38,6 +38,9 @@
   </div>
 </template>
 
-<script setup></script>
+<script setup>
+const showMenu = ref(false);
+const toggleMenu = () => (showMenu.value = !showMenu.value);
+</script>
 
 <style scoped></style>

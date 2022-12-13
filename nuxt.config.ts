@@ -1,4 +1,5 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
+import { defineNuxtConfig } from "nuxt/config"
 export default defineNuxtConfig({
   app: {
     head: {
@@ -12,6 +13,7 @@ export default defineNuxtConfig({
     },
   },
   css: ['~/assets/css/main.css'],
+  modules: ['nuxt-icon'],
   postcss: {
     plugins: {
       tailwindcss: {},
