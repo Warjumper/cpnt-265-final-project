@@ -1,14 +1,14 @@
 <template>
   <div>
     <nav
-      class="flex-wrap mx-auto px-12 bg-gradient-to-r from-red-100 to-blue-100"
+      class="flex-wrap mx-auto px-12 bg-gradient-to-r from-pink-800 to-indigo-800 text-white"
     >
-      <div class="flex items-center justify-between">
+      <div class="flex items-center justify-between pl-8">
         <div>
           <NuxtLink to="/">
             <img
               class="object-contain h-20 w-20"
-              src="public/images/logo1.svg"
+              src="/images/logo1.svg"
               alt="logo"
           /></NuxtLink>
         </div>
@@ -26,7 +26,10 @@
             <NuxtLink to="/about">About</NuxtLink>
           </li>
           <li class="hover:text-red-600 list-none">
-            <NuxtLink to="/cocktails/gallery">Gallery</NuxtLink>
+            <NuxtLink to="/events">Events</NuxtLink>
+          </li>
+          <li class="hover:text-red-600 list-none">
+            <NuxtLink to="/contact">Contacts</NuxtLink>
           </li>
         </div>
       </div>
