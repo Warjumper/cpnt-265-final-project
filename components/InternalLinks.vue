@@ -1,10 +1,10 @@
 <template>
-   <div class="uppercase">
+   <div class="uppercase text-white">
     <!-- internal links -->
 
     <NuxtLink
       to="/"
-      class="text-zinc-800 hover:opacity-75 group flex items-center pb-3 pr-5"
+      class="hover:opacity-75 group flex items-center pb-3 pr-5"
       ><img
         class="h-5 p-0"
         src=""
@@ -14,7 +14,7 @@
 
     <NuxtLink
       to="/about"
-      class="text-zinc-800 hover:opacity-75 group flex items-center pb-3 pr-5"
+      class="hover:opacity-75 group flex items-center pb-3 pr-5"
       ><img
         class="h-5 p-0"
         src=""
@@ -24,7 +24,7 @@
 
     <NuxtLink
       to="/events"
-      class="text-zinc-800 hover:opacity-75 group flex items-center pb-3 pr-5"
+      class="hover:opacity-75 group flex items-center pb-3 pr-5"
       ><img
         class="h-5 p-0"
         src=""
@@ -33,7 +33,7 @@
     >
     <NuxtLink
       to="/contact"
-      class="text-zinc-800 hover:opacity-75 group flex items-center pb-3 pr-5"
+      class="hover:opacity-75 group flex items-center pb-3 pr-5"
       ><img
         class="h-5 p-0"
         src=""

@@ -1,4 +1,25 @@
-<script setup>
+<script>
+// const text = document.getElementById("text");
+
+// window.addEventListener("scroll", function() {
+//   const value = window.scrollY;
+//   text.style.marginBottom = value * 0.25 + "px";
+//   }); 
+
+// export default {
+//   methods: {
+//     handleScroll () {
+//       console.log(window.scrollY)
+//     }
+//   },
+//   beforeMount () {
+//     window.addEventListener('scroll', this.handleScroll)
+//   },
+//   beforeDestroy () {
+//     window.removeEventListener('scroll', this.handleScroll)
+//   },
+// };
+
 </script>
 
 <template>

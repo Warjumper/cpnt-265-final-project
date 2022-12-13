@@ -1,6 +1,6 @@
 <template>
   <div
-    class="sticky top-0 z-50 bg-gray-800 flex md:hidden backdrop-filter backdrop-blur-sm bg-opacity-10"
+    class="sticky top-0 z-50 flex md:hidden bg-gradient-to-tr from-cyan-500 to-violet-600 backdrop-filter backdrop-blur-sm bg-opacity-30"
   >
     <div class="">
       <div class="flex flex-col w-64">
