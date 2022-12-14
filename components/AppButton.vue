@@ -4,7 +4,7 @@
     <NuxtLink
       :class="color"
       :to="link"
-      class="px-6 py-2 text-white rounded hover:opacity-75 hover:bg-red-800 cursor-pointer"
+      class="px-6 py-2 text-black rounded hover:opacity-75 hover:bg-cyan-200 cursor-pointer"
       >{{ text }}</NuxtLink
     >
   </div>
@@ -17,7 +17,7 @@ const props = defineProps({
   text: String,
   color: {
     type: String,
-    default: "bg-red-600",
+    default: "bg-cyan-200",
   },
 });
 </script>
