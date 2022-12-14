@@ -21,9 +21,10 @@
         at. Iure, magnam!
       </p>
     </div>
-    <video autoplay loop muted playsinline="" class="back-video">
+    <!-- NEEDS VIDEO REUPLOAD -->
+    <!-- <video autoplay loop muted playsinline="" class="back-video">
       <source src="/video/UR-Banner.mp4" type="video/mp4" />
-    </video>
+    </video> -->
   </div>
 </template>
 
