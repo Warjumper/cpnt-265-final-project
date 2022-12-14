@@ -4,14 +4,17 @@
       <div
         class="grid justify-items-center sm:grid-cols-2 md:grid-cols-3 lg:flex lg:justify-between pl-20 pr-20 pt-2"
       >
-        <img class="h-10 w-48" src="/images/logo.png" alt="unseen riches logo" />
+        <img
+          class="h-10 w-48"
+          src="/images/logo.png"
+          alt="unseen riches logo"
+        />
+        <!-- sitemap -->
         <div class="flex justify-around space-x-6 pb-4 pt-4 text-lg text-white">
-          <NuxtLink to="/" class="hover:text-red-600">Home</NuxtLink>
-          <NuxtLink to="/about" class="hover:text-red-600">About</NuxtLink>
-          <NuxtLink to="/events" class="hover:text-red-600"
-            >Events</NuxtLink
-          >
-          <NuxtLink to="/contact" class="hover:text-red-600"
+          <NuxtLink to="/" class="hover:text-cyan-400">Home</NuxtLink>
+          <NuxtLink to="/about" class="hover:text-cyan-400">About</NuxtLink>
+          <NuxtLink to="/events" class="hover:text-cyan-400">Events</NuxtLink>
+          <NuxtLink to="/contact" class="hover:text-cyan-400"
             >Contacts</NuxtLink
           >
         </div>
@@ -47,7 +50,9 @@
         </a>
 
         <!-- link 4 -->
-        <a href="https://www.tiktok.com/@unseenriches?_t=8VsnvPtD3gc&_r=1&fbclid=PAAaa8dnyMLfA-Hoy8Gt61gBhhr1uBDmj7u58nyznzxNyob_n-GfLTtfubrQo">
+        <a
+          href="https://www.tiktok.com/@unseenriches?_t=8VsnvPtD3gc&_r=1&fbclid=PAAaa8dnyMLfA-Hoy8Gt61gBhhr1uBDmj7u58nyznzxNyob_n-GfLTtfubrQo"
+        >
           <img
             src="/images/tiktok.svg"
             alt="tiktok"

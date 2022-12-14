@@ -2,5 +2,5 @@
 ## Final Project
 ### By Jesse H
 
-- homepage/parallax all vanila ported over
+- homepage/parallax all vanila ported over from client vanilla project
 - 

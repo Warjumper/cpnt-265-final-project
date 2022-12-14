@@ -1,41 +1,45 @@
 <script>
+//parallax testing 
+
 // const text = document.getElementById("text");
 
 // window.addEventListener("scroll", function() {
 //   const value = window.scrollY;
 //   text.style.marginBottom = value * 0.25 + "px";
-//   }); 
+//   });
 
-// export default {
-//   methods: {
-//     handleScroll () {
-//       console.log(window.scrollY)
-//     }
-//   },
-//   beforeMount () {
-//     window.addEventListener('scroll', this.handleScroll)
-//   },
-//   beforeDestroy () {
-//     window.removeEventListener('scroll', this.handleScroll)
-//   },
-// };
-
+export default {
+  methods: {
+    handleScroll() {
+      console.log(window.scrollY);
+    },
+  },
+  beforeMount() {
+    window.addEventListener("scroll", this.handleScroll);
+  },
+  beforeDestroy() {
+    window.removeEventListener("scroll", this.handleScroll);
+  },
+};
 </script>
 
 <template>
   <div class="">
     <section>
-      <img class="2xl:opacity-70"
+      <img
+        class="2xl:opacity-70"
         src="images/neon-mountain.jpg"
         id="neonmtn"
         alt="background mountains"
       />
-      <img class="hidden 2xl:flex"
+      <img
+        class="hidden 2xl:flex"
         src="images/frontmtn1.svg"
         id="frontmtn1"
         alt="foreground mountains"
       />
-      <img class="hidden 2xl:flex"
+      <img
+        class="hidden 2xl:flex"
         src="images/frontmtn2.svg"
         id="frontmtn2"
         alt="foreground mountains"
@@ -208,7 +212,6 @@ section img#frontmtn2 {
   .sec h2 {
     font-size: 24px;
     text-align: left;
-    
   }
   .sec p {
     font-size: 16px;
