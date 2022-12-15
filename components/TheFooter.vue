@@ -1,8 +1,8 @@
 <template>
   <footer class="bg-gradient-to-r from-blue-900 to-purple-900 md:visible">
-    <div class="bottom-0 w-full px-4 py-2 text-black">
+    <div class="bottom-0 w-full px-16 py-2">
       <div
-        class="grid justify-items-center sm:grid-cols-2 md:grid-cols-3 lg:flex lg:justify-between pl-20 pr-20 pt-2"
+        class="grid justify-items-center sm:grid-cols-2 md:grid-cols-3 lg:flex lg:justify-between pl-10 pr-10 pt-2"
       >
         <img
           class="h-10 w-48"
@@ -23,7 +23,7 @@
       <!-- socials -->
       <div class="justify-center space-x-8 hidden md:flex">
         <!-- link 1 -->
-        <a href="#">
+        <a href="https://www.facebook.com/profile.php?id=100075624837352">
           <img
             src="/images/facebook.svg"
             alt="facebook"
@@ -32,7 +32,7 @@
         </a>
 
         <!-- link 2 -->
-        <a href="#">
+        <a href="https://twitter.com/UnseeenRiches">
           <img
             src="/images/twitter.svg"
             alt="twitter"

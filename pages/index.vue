@@ -27,7 +27,7 @@ export default {
   <div class="">
     <section>
       <img
-        class="2xl:opacity-70"
+        class="2xl:opacity-90"
         src="images/neon-mountain.jpg"
         id="neonmtn"
         alt="background mountains"
@@ -47,7 +47,7 @@ export default {
       <h2 id="text"><em>Unseen Riches</em></h2>
       <a href="#sec" id="btn">Explore</a>
     </section>
-    <div class="sec" id="sec">
+    <div class="sec bg-gradient-to-r from-blue-900 to-purple-900" id="sec">
       <h2>Enter the Hypogeum</h2>
       <p>
         Cross the threshold, thither unto the Cthonian chanting, matched only by
@@ -144,7 +144,6 @@ section img {
   pointer-events: none;
 }
 section img#neonmtn {
-  /* opacity: 70%; */
   height: 100vh;
   width: 100%;
 }
@@ -170,7 +169,7 @@ section img#frontmtn2 {
   text-shadow: 4px 4px 8px black;
   white-space: nowrap;
   font-size: 7.5vw;
-  z-index: 9;
+  z-index: 200;
 }
 #btn {
   text-decoration: none;
@@ -181,7 +180,7 @@ section img#frontmtn2 {
   background: #cffafe;
   color: #2b1055;
   font-size: 1.5em;
-  z-index: 9;
+  z-index: 200;
   transform: translateY(100px);
 }
 #btn:hover {
@@ -192,7 +191,7 @@ section img#frontmtn2 {
 .sec {
   position: relative;
   padding: 100px;
-  background: linear-gradient(to right, #001147, #4f0073);
+  /* background: linear-gradient(to right, #001147, #4f0073); */
 }
 .sec h2 {
   font-size: 3.5em;
