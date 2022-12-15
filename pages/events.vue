@@ -20,7 +20,7 @@
           class="block p-6 rounded-lg bg-blur max-w-sm mx-auto shadow-2xl z-40"
         >
           <img
-            class="rounded-lg object-cover h-80 w-96"
+            class="rounded-lg object-cover h-80 w-96 hover:scale-110 transition duration-300 ease-in-out"
             src="/images/gameover.jpg"
             alt="game over"
           />
@@ -38,7 +38,7 @@
 
           <button
             type="button"
-            class="flex px-6 py-2.5 bg-blue-600 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-900 hover:shadow-lg focus:bg-blue-600 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-900 active:shadow-lg transition duration-150 ease-in-out z-50 mx-auto"
+            class="flex px-6 py-2.5 bg-blue-600 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-purple-900 hover:shadow-lg focus:bg-blue-600 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-900 active:shadow-lg transition duration-150 ease-in-out z-50 mx-auto"
           >
             <a href="https://www.showpass.com/launch-party-2/?fbclid=IwAR2H0SAXaC9JokliTwf8OrBAmh8mgbEmgpnIqenEp8MlSzPUJo6nGsRvRik"> Information</a>
           </button>
@@ -48,7 +48,7 @@
           class="block p-6 rounded-lg bg-blur max-w-sm mx-auto shadow-2xl z-20"
         >
           <img
-            class="rounded-lg object-cover h-80 w-96"
+            class="rounded-lg object-cover h-80 w-96 hover:scale-110 transition duration-300 ease-in-out"
             src="/images/beauty.jpg"
             alt="girl in front of sign"
           />
@@ -66,7 +66,7 @@
 
           <button
             type="button"
-            class="flex px-6 py-2.5 bg-blue-600 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-900 hover:shadow-lg focus:bg-blue-600 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-900 active:shadow-lg transition duration-150 ease-in-out z-20 mx-auto"
+            class="flex px-6 py-2.5 bg-blue-600 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-purple-900 hover:shadow-lg focus:bg-blue-600 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-900 active:shadow-lg transition duration-150 ease-in-out z-20 mx-auto"
           >
             <a href="https://www.showpass.com/launch-party-2/?fbclid=IwAR2H0SAXaC9JokliTwf8OrBAmh8mgbEmgpnIqenEp8MlSzPUJo6nGsRvRik"> Information</a>
           </button>
@@ -76,7 +76,7 @@
           class="block p-6 rounded-lg bg-blur max-w-sm mx-auto shadow-2xl z-20"
         >
           <img
-            class="rounded-lg object-cover h-80 w-96"
+            class="rounded-lg object-cover h-80 w-96 hover:scale-110 transition duration-300 ease-in-out"
             src="/images/largeroom.jpg"
             alt="large fancy room"
           />
@@ -94,7 +94,7 @@
 
           <button
             type="button"
-            class="flex px-6 py-2.5 bg-blue-600 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-900 hover:shadow-lg focus:bg-blue-600 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-900 active:shadow-lg transition duration-150 ease-in-out z-20 mx-auto"
+            class="flex px-6 py-2.5 bg-blue-600 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-purple-900 hover:shadow-lg focus:bg-blue-600 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-900 active:shadow-lg transition duration-150 ease-in-out z-20 mx-auto"
           >
             <a href="https://www.showpass.com/launch-party-2/?fbclid=IwAR2H0SAXaC9JokliTwf8OrBAmh8mgbEmgpnIqenEp8MlSzPUJo6nGsRvRik"> Information</a>
           </button>
@@ -104,8 +104,8 @@
           class="block p-6 rounded-lg bg-blur max-w-sm mx-auto shadow-2xl z-20"
         >
           <img
-            class="rounded-lg object-cover h-80 w-96"
-            src="/images/concert1.jpg"
+            class="rounded-lg object-cover h-80 w-96 hover:scale-110 transition duration-300 ease-in-out"
+            src="/images/concert2.jpg"
             alt="concert crowd"
           />
           <h5
@@ -122,7 +122,7 @@
 
           <button
             type="button"
-            class="flex px-6 py-2.5 bg-blue-600 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-900 hover:shadow-lg focus:bg-blue-600 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-900 active:shadow-lg transition duration-150 ease-in-out z-20 mx-auto"
+            class="flex px-6 py-2.5 bg-blue-600 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-purple-900 hover:shadow-lg focus:bg-blue-600 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-900 active:shadow-lg transition duration-150 ease-in-out z-20 mx-auto"
           >
             <a href="https://www.showpass.com/launch-party-2/?fbclid=IwAR2H0SAXaC9JokliTwf8OrBAmh8mgbEmgpnIqenEp8MlSzPUJo6nGsRvRik"> Information</a>
           </button>
